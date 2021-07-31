@@ -9,10 +9,8 @@ Hmtl
 CSS
 </h3>
 
-
-< link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-
 <div>
+< a link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 <i class="devicon-thealgorithms-plain-wordmark"></i>
 </di>
 - 
