@@ -14,11 +14,11 @@ And only a wise people can change His Destiny.
 
 
 #### I’m currently learning 👩🏾‍💻  
-- Platform Descodificada
-- Algoritmo
--HTML
--CSS
--JavaScript
+ Platform Descodificada
+ Algoritmo
+ HTML
+ CSS
+JavaScript
 
 #### what I want to learn more💻  
 - SASSA 
