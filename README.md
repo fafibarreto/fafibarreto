@@ -26,15 +26,22 @@ And only a wise people can change His Destiny.
 - React 
 - Angular
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css">
 
+ <div>
+  <a href="https://github.com/fafibarreto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fafibarreto&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>    
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafibarreto&layout=compact&langs_count=7&theme=highcontrast"/>
+</div><br>
 
-<div>
-<i class="devicon-thealgorithms-plain"></i>
-<i class="devicon-html5-plain-wordmark colored"></i>
-<i class="devicon-css3-plain colored"></i>
-</div>
-
-
+ ## 
+ 
+ <div style="display: inline_block"><br>
+  <img align="center" alt="fafi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="fafi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="fafi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  
+  
+ 
+   
+ 
