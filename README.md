@@ -12,13 +12,14 @@ Education generates knowledge.
 Knowledge begets wisdom,
 And only a wise people can change His Destiny.
 
+----
 
 #### I’m currently learning 👩🏾‍💻  
- Platform Descodificada
- Algoritmo
- HTML
- CSS
-JavaScript
+- Platform Descodificada
+- Algoritmo
+- HTML
+- CSS
+- JavaScript
 
 #### what I want to learn more💻  
 - SASSA 
@@ -26,6 +27,7 @@ JavaScript
 - React 
 - Angular
 
+----
 
  <div>
   <a href="https://github.com/fafibarreto">
@@ -33,15 +35,12 @@ JavaScript
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fafibarreto&layout=compact&langs_count=7&theme=highcontrast"/>
 </div><br>
 
- ## 
- 
  <div style="display: inline_block"><br>
   <img align="center" alt="fafi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fafi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="fafi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  
-  
+ </div>
  
-   
+ ---
+
  
