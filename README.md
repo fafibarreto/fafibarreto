@@ -7,10 +7,11 @@ I graduated in Event Management, this world of events is constantly changing, in
 it caught my attention because it is an area dominated by men.
  Now I'm on this journey and qualifying to become a developer and be part of this world of women in IT.
  
- Quote
-Education generates knowledge.
-Knowledge begets wisdom,
-And only a wise people can change His Destiny.
+- Quote
+- Education generates knowledge.
+- Knowledge begets wisdom,
+- And only a wise people can change His Destiny.
+
 
 ----
 
